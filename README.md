@@ -1,5 +1,6 @@
 <h1 align="center">
-  👋 Hello, I'm Lovlygod
+  <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" alt="wave" />
+  Hello, I'm Lovlygod
 </h1>
 
 <h3 align="center">
@@ -12,15 +13,21 @@
 
 ---
 
-## 🧠 Skills (Animated)
+## 🧠 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&animation=spin" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&animation=spin" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&animation=spin" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&animation=spin" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&animation=spin" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&animation=spin" alt="TypeScript" />
+  <!-- Backend & frameworks -->
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express" height="35" alt="Backend and frameworks" />
+</p>
+
+<p align="center">
+  <!-- Frontend technologies -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" height="35" alt="Frontend technologies" />
+</p>
+
+<p align="center">
+  <!-- Databases & tools -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis,aws,vercel,docker,nginx,git" height="35" alt="Databases and tools" />
 </p>
 
 <p align="center">
