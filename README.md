@@ -12,7 +12,7 @@
 </p>
 
 
-## 🧠 Skills
+### 🧠 Skills
 
 <p align="center">
   <!-- Backend & frameworks -->
@@ -34,14 +34,14 @@
 </p>
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&langs_count=8&theme=radical" height="150" />
 </p>
 
-## 👀 Visitors & Profile Views
+### 👀 Visitors & Profile Views
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lovlygod.lovlygod" alt="Visitor Badge"/>
@@ -49,7 +49,7 @@
 </p>
 
 
-## 🎯 Fun Stuff
+### 🎯 Fun Stuff
 
 - 🔥 Currently learning: Go & Rust  
 - 🤖 I build Telegram bots and automation scripts  
@@ -57,7 +57,7 @@
 - 🎮 Gamer & tech enthusiast  
 
 
-## 📫 Connect with me
+### 📫 Connect with me
 
 <p align="center">
   <a href="https://t.me/lovlyswag">
