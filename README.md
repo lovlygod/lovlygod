@@ -11,7 +11,6 @@
   Turning ideas into fast, scalable, and production-ready solutions.
 </p>
 
----
 
 ## 🧠 Skills
 
@@ -34,7 +33,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Python+%7C+Full+Stack+Developer+%7C+Automation+%7C+Telegram+Bots" alt="Typing Animation" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -43,8 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&langs_count=8&theme=radical" height="150" />
 </p>
 
----
-
 ## 👀 Visitors & Profile Views
 
 <p align="center">
@@ -52,7 +48,6 @@
   <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" alt="Profile Views"/>
 </p>
 
----
 
 ## 🎯 Fun Stuff
 
@@ -61,7 +56,6 @@
 - 🌱 Exploring new tech & frameworks  
 - 🎮 Gamer & tech enthusiast  
 
----
 
 ## 📫 Connect with me
 
@@ -74,7 +68,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <sub>Made with ❤️ by Lovlygod</sub>
