@@ -55,7 +55,7 @@
 
 - 🔥 Currently learning: 
   <img src="https://skillicons.dev/icons?i=go" height="20" alt="Go" /> Go & 
-  <img src="https://skillicons.dev/icons?i=astro" height="20" alt="Astro" /> Astro  
+  <img src="https://skillicons.dev/icons?i=astro" height="20" alt="Astro" />  Astro  
 - 🤖 I build Telegram bots and automation scripts  
 - 🌱 Exploring new tech & frameworks  
 - 🎮 Gamer & tech enthusiast  
