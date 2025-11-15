@@ -50,7 +50,7 @@
 ## 🌍 3D Contribution Map (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/lovlygod/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 Profile Metrics
 
 <p align="center">
-  <img src="./metrics.svg" alt="Profile Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/output/metrics.svg" alt="Profile Metrics" width="100%" />
 </p>
 
 ---
