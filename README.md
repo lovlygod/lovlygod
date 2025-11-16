@@ -1,58 +1,92 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" />
-  Hey, I'm <strong>Lovlygod</strong>
+  Hi, I'm <strong>Lovlygod</strong>
 </h1>
 
-<h3 align="center">Python Developer • API Builder • Automations & Telegram Bots</h3>
+<h3 align="center">Python Developer • Backend & Automation • API Tools</h3>
 
 <p align="center">
-  I love creating fast tools, smart automations, and small things that make life easier for developers.
+  I build fast backend tools, automation systems, and developer utilities.  
+  I love turning ideas into small, useful, and scalable solutions.
   <br>
-  Always open to new friends, collaborations, and conversations.
+  Always open to new friends, collaborations, and fun side-projects 🚀
 </p>
 
 ---
 
-## 🚀 What I’m Building
+## ⚡ What I Do
 
-- ⚡ High-speed backend tools  
-- 🔌 API frameworks & microservices  
-- 🤖 Telegram bots & automation scripts  
-- 🧩 Utils that simplify everyday development  
-
----
-
-## ⭐ My Best Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[lovlyAPI](https://github.com/lovlygod/lovlyAPI)** | Fast API engine for quick MVPs & prototypes | Python, FastAPI |
-| **[FragmentAPI](https://github.com/lovlygod/FragmentAPI)** | Modular API-builder inspired by microservice design | Python |
-| **[ServiceMonitor](https://github.com/lovlygod/ServiceMonitor)** | Monitor uptime & status for your services | Async Python |
-| **[Telegram-Buy-Stars](https://github.com/lovlygod/Telegram-Buy-Stars)** | Automation tool for Telegram Stars | Python, Telegram API |
+- 🐍 Backend development (APIs, async systems, microservices)  
+- 🤖 Telegram bots, automation & integrations  
+- 🔧 Developer tools that speed up building  
+- 🧪 Fast experiments & prototypes  
+- 🎯 Clean, simple and production-ready architecture  
 
 ---
 
-## 😄 About Me
+## ⭐ Featured Projects
 
-- 🔥 Currently learning: Go & Astro  
-- 🧠 Passionate about backend architectures  
-- 🎮 Gamer, tech Enjoyer, experimenting with new frameworks  
-- 🤝 Love meeting devs with similar interests  
+### 🔹 **[lovlyAPI](https://github.com/lovlygod/lovlyAPI)**
+Fast and minimalistic API engine for rapid backend prototyping.  
+**Tech:** Python, FastAPI
 
 ---
 
-## 🤝 Want to build something together?
+### 🔹 **[FragmentAPI](https://github.com/lovlygod/FragmentAPI)**
+Modular API constructor inspired by microservice design.  
+**Tech:** Python
 
-I'm open for:
-- mini-projects  
-- bot ideas  
-- APIs  
-- fun experiments  
-- or just chatting about tech  
+---
 
-📬 **DM me on Telegram:**  
-**[@lovlyswag](https://t.me/lovlyswag)**
+### 🔹 **[ServiceMonitor](https://github.com/lovlygod/ServiceMonitor)**
+Async uptime/status monitoring for services and endpoints.  
+**Tech:** Async Python
+
+---
+
+### 🔹 **[Telegram-Buy-Stars](https://github.com/lovlygod/Telegram-Buy-Stars)**
+Automation tool for Telegram Stars operations.  
+**Tech:** Python, Telegram API
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,nodejs,express,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=8" height="35" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- <img src="https://skillicons.dev/icons?i=go" height="20" /> Go — high-performance backend  
+- <img src="https://skillicons.dev/icons?i=astro" height="20" /> Astro — modern web building  
+
+---
+
+## 🤝 Looking for Collaborators
+
+I enjoy working with developers who like:
+
+- automation  
+- Python tooling  
+- backend architectures  
+- Telegram bots  
+- experiment-driven development  
+
+If you want to create something together —  
+**feel free to write me anytime.**
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://t.me/lovlyswag">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -64,10 +98,11 @@ I'm open for:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" />
 </p>
 
 ---
+
 <p align="center">
-  <sub>Made with ❤️ by Lovlygod</sub>
+  <sub>Made with ❤️ by Lovlygod — clean tools, real impact.</sub>
 </p>
