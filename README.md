@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="lovly.png" alt="Fragment Logo" width="120" height="120" style="border-radius: 24px;">
+  
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" />
   Hi, I'm <strong>Lovlygod</strong>
