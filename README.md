@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="lovly.png" alt="lovly Logo" width="240" height="240" style="border-radius: 128px;">
+  <img src="lovly.png" alt="lovly Logo" width="480" height="480" style="border-radius: 128px;">
   
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" />
