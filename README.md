@@ -33,15 +33,15 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="100" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="80" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- <img src="https://skillicons.dev/icons?i=go" height="20" /> Go — high-performance backend  
-- <img src="https://skillicons.dev/icons?i=astro" height="20" /> Astro — modern web building  
+- <img src="https://skillicons.dev/icons?i=go" height="28" /> Go — high-performance backend  
+- <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
 
 ---
 
