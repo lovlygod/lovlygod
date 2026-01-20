@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="lovly.png" alt="lovly Logo" width="400" height="400" style="border-radius: 64px;">
-  
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" />
   Hi, I'm <strong>Lovlygod</strong>
