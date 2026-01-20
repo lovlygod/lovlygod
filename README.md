@@ -14,13 +14,13 @@
 
 
 
-## 🌱 Currently Learning
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
 </p>
 
-## 📬 Contact
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://t.me/lovlyswag">
@@ -29,7 +29,7 @@
 </p>
 
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=dark" />
