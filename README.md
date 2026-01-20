@@ -5,26 +5,6 @@
 
 <h3 align="center">Python Developer • Backend & Automation • API Tools</h3>
 
-<p align="center">
-  I build fast backend tools, automation systems, and developer utilities.  
-  I love turning ideas into small, useful, and scalable solutions.
-  <br>
-  Always open to new friends, collaborations, and fun side-projects 🚀
-</p>
-
----
-
-## ⚡ What I Do
-
-- 🐍 Backend development (APIs, async systems, microservices)  
-- 🤖 Telegram bots, automation & integrations  
-- 🔧 Developer tools that speed up building  
-- 🧪 Fast experiments & prototypes  
-- 🎯 Clean, simple and production-ready architecture  
-
----
-
-
 ---
 
 ## 🧠 Tech Stack
