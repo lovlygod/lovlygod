@@ -5,7 +5,6 @@
 
 <h3 align="center">Python Developer • Backend & Automation • API Tools</h3>
 
----
 
 ## 🧠 Tech Stack
 
@@ -13,13 +12,12 @@
   <img src="https://skillicons.dev/icons?i=py,fastapi,cs,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="80" />
 </p>
 
----
+
 
 ## 🌱 Currently Learning
  
 - <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
 
----
 
 ## 🤝 Looking for Collaborators
 
@@ -34,7 +32,6 @@ I enjoy working with developers who like:
 If you want to create something together —  
 **feel free to write me anytime.**
 
----
 
 ## 📬 Contact
 
@@ -44,7 +41,6 @@ If you want to create something together —
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -57,7 +53,7 @@ If you want to create something together —
   <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" />
 </p>
 
----
+
 
 <p align="center">
   <sub>Made with ❤️ by Lovlygod — clean tools, real impact.</sub>
