@@ -39,8 +39,7 @@
 ---
 
 ## 🌱 Currently Learning
-
-- <img src="https://skillicons.dev/icons?i=go" height="28" /> Go — high-performance backend  
+ 
 - <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
 
 ---
