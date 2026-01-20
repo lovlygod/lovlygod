@@ -72,8 +72,8 @@ If you want to create something together —
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
