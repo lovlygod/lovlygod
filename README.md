@@ -33,7 +33,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="80" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,csharp,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="80" />
 </p>
 
 ---
