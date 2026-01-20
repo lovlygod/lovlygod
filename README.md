@@ -15,23 +15,10 @@
 
 
 ## 🌱 Currently Learning
- 
-- <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
 
-
-## 🤝 Looking for Collaborators
-
-I enjoy working with developers who like:
-
-- automation  
-- Python tooling  
-- backend architectures  
-- Telegram bots  
-- experiment-driven development  
-
-If you want to create something together —  
-**feel free to write me anytime.**
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro" height="28" /> Astro — modern web building  
+</p>
 
 ## 📬 Contact
 
