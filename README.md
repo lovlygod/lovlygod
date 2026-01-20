@@ -6,9 +6,7 @@
 <h3 align="center">Python Developer • Backend & Automation • API Tools</h3>
 
 
-<p align="center">
 ## 🧠 Tech Stack
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,cs,go,nodejs,react,nextjs,redis,postgres,mongodb,sqlite,docker,nginx,git&perline=7" height="80" />
