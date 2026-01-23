@@ -32,8 +32,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=dar" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&theme=dar" />
 </p>
 
 <p align="center">
