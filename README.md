@@ -64,15 +64,6 @@ Personal cloud storage application using Telegram as a storage backend.
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=astro" height="28" />
-  <strong>Astro</strong> — modern frontend framework
-</p>
-
----
-
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
