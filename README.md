@@ -25,7 +25,7 @@
 ---
 
 <h2 align="center">💼 Key Projects</h2>
-<p align="center">
+
 ### [SocialMediaAnalyzer](https://github.com/lovlygod/SocialMediaAnalyzer)
 **C# / WPF**  
 Desktop application for analyzing social media activity.
@@ -61,7 +61,7 @@ Personal cloud storage application using Telegram as a storage backend.
 
 • File upload and management  
 • Automation-friendly approach
-</p>
+
 ---
 
 <h2 align="center">📬 Contact</h2>
