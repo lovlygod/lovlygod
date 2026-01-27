@@ -25,8 +25,8 @@
 ---
 
 <h2 align="center">💼 Key Projects</h2>
-
-### SocialMediaAnalyzer  
+<p align="center">
+### [SocialMediaAnalyzer](https://github.com/lovlygod/SocialMediaAnalyzer)
 **C# / WPF**  
 Desktop application for analyzing social media activity.
 
@@ -36,7 +36,7 @@ Desktop application for analyzing social media activity.
 
 ---
 
-### WindowsCleanerUtility  
+### [WindowsCleanerUtility](https://github.com/lovlygod/WindowsCleanerUtility)
 **C#**  
 Windows system utility for cleaning temporary and unnecessary files.
 
@@ -46,7 +46,7 @@ Windows system utility for cleaning temporary and unnecessary files.
 
 ---
 
-### FragmentAPI  
+### [FragmentAPI](https://github.com/lovlygod/FragmentAPI)
 **TypeScript / Backend**  
 Backend API service with modular architecture.
 
@@ -55,13 +55,13 @@ Backend API service with modular architecture.
 
 ---
 
-### SkyGram  
+### [SkyGram](https://github.com/lovlygod/SkyGram)
 **TypeScript**  
 Personal cloud storage application using Telegram as a storage backend.
 
 • File upload and management  
 • Automation-friendly approach
-
+</p>
 ---
 
 <h2 align="center">📬 Contact</h2>
