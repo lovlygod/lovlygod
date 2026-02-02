@@ -74,13 +74,6 @@ Personal cloud storage application using Telegram as a storage backend.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lovlygod&show_icons=true&theme=dark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovlygod&layout=compact&theme=dark" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" />
 </p>
