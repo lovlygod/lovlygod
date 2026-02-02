@@ -72,13 +72,11 @@ Personal cloud storage application using Telegram as a storage backend.
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" />
 </p>
 
----
 
 <p align="center">
   <sub>Open to junior/middle C# developer opportunities.</sub>
