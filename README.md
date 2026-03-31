@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Flowseal / experienced coder </h1>
+<h1 align="center">🐉 lovlyDev / experienced coder </h1>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<div align="center">
-  <sub>Open to junior/middle C# developer opportunities.</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lovlygod&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
