@@ -1,93 +1,64 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/lovlygod/lovlygod/main/wave.gif" width="50px" />
-  Hi, I'm <strong>Lovlygod</strong>
-</h1>
+<h1 align="center">🐉 Flowseal / experienced coder </h1>
 
-<h3 align="center">C# Developer • Desktop Applications • Backend • Automation</h3>
+###
 
-<p align="center">
-  C# developer focused on building stable Windows desktop applications and backend tools.
-  Interested in clean code, clear architecture, and practical solutions.
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
 
----
+###
 
-<h2 align="center">🧠 Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,fastapi,go,nodejs,ts,react,nextjs,redis,postgres,sqlite,docker,nginx,git&perline=7" height="80" />
-</p>
+###
 
-<p align="center">
-  <sub>Primary focus: <strong>C# / .NET</strong> • WPF • Windows Applications</sub>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
----
+###
 
-<h2 align="center">💼 Key Projects</h2>
-
-### [SocialMediaAnalyzer](https://github.com/lovlygod/SocialMediaAnalyzer)
-**C# / WPF**  
-Desktop application for analyzing social media activity.
-
-• Data processing and aggregation  
-• Visualization of activity metrics  
-• Designed for analytical workflows
-
----
-
-### [WindowsCleanerUtility](https://github.com/lovlygod/WindowsCleanerUtility)
-**C#**  
-Windows system utility for cleaning temporary and unnecessary files.
-
-• Disk space optimization  
-• Safe cleanup of system and browser data  
-• Simple and reliable logic
-
----
-
-### [FragmentAPI](https://github.com/lovlygod/FragmentAPI)
-**TypeScript / Backend**  
-Backend API service with modular architecture.
-
-• Clear separation of concerns  
-• Scalable API design
-
----
-
-### [SkyGram](https://github.com/lovlygod/SkyGram)
-**TypeScript**  
-Personal cloud storage application using Telegram as a storage backend.
-
-• File upload and management  
-• Automation-friendly approach
-
----
-
-### [Rewinder](https://github.com/lovlygod/Rewinder)
-**go**  
-Automatic tracking and recovery of Windows application states.
-
-• Automatic snapshots  
-• System tray
-
----
-
-<h2 align="center">📬 Contact</h2>
-
-<p align="center">
-  <a href="https://t.me/lovlyswag">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=lovlygod&color=blue" />
-</p>
+</div>
 
+###
 
-<p align="center">
+<div align="center">
   <sub>Open to junior/middle C# developer opportunities.</sub>
-</p>
+</div>
 
