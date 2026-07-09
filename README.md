@@ -57,7 +57,8 @@
 </div>
 
 ###
-<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lovlygod&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8" />
-</a>
+<div align="center" <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lovlygod&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8"
+</div>
  
-<img align="center" src="https://count.getloli.com/get/@:lovlygod?theme=booru-lisu" /> </a>
+<div align="center" <img align="center" src="https://count.getloli.com/get/@:lovlygod?theme=booru-lisu" /> 
+</div>
