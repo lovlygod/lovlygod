@@ -60,6 +60,6 @@
 <a href="https://noxyin.space"> <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lovlygod&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8" />
 </a>
 
-<a href="https://noxyin.space"> <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=noxygalaxy&custom_title=Coding%20Time&api_domain=wakapi.dev&layout=compact&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" /> 
+<a href="https://noxyin.space"> <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=lovlygod&custom_title=Coding%20Time&api_domain=wakapi.dev&layout=compact&bg_color=0a0a0a&title_color=9666ff&border_color=1e1e1e&border_radius=8" /> 
 </a> 
 > Profile Views: <a href="https://noxyin.space"> <img align="center" src="https://count.getloli.com/get/@:noxygalaxy?theme=booru-lisu" /> </a>
